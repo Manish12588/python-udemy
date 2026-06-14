@@ -1,0 +1,9 @@
+Everything is object in python 
+
+Object has -> Identity, Type, Value
+
+Mutable and immutable
+--> Mutable is changeable 
+--> immutable is not changeable
+
+-> Bases on identity we will identiy weather is changeable or not

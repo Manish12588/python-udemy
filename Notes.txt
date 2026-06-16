@@ -7,3 +7,15 @@ Mutable and immutable
 --> immutable is not changeable
 
 -> Bases on identity we will identiy weather is changeable or not
+
+-> Set() is a datatype which represent a collection of data.
+
+->    Integer, 
+->    Boolean, 
+=>    Real => Floating, Decimal
+=>    complex number => 2+3j
+
+Strings (immutable):
+-> core
+-> indexing
+-> slicing

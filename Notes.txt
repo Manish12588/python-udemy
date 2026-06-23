@@ -19,3 +19,9 @@ Strings (immutable):
 -> core
 -> indexing
 -> slicing
+
+Type of comprehension:
+- List -> [expression for item in iterable ]
+- Set
+- Dictionary
+- Generator
